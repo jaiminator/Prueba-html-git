@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2{
+    color: aquamarine;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+}
